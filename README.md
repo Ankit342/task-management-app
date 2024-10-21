@@ -25,11 +25,11 @@ This is a full-stack task management application built using Node.js, Express, M
 ### Backend Setup
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/Ankit342/task-management-app.git
-   cd task-management-app/backend
-   ```
-2. Install the necessary dependencies:
+```
+git clone https://github.com/Ankit342/task-management-app.git
+cd task-management-app/backend
+```
+3. Install the necessary dependencies:
 ```
 npm i cors express dotenv jsonwebtoken bcryptjs mongoose
 ```
